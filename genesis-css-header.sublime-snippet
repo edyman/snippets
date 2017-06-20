@@ -1,0 +1,23 @@
+<snippet>
+	<content><![CDATA[
+/* # Genesis Sample Child Theme
+Theme Name: ${1:themeName}
+Theme URI: ${2:themeURL}
+Description: ${3:themeDescription}
+Author: ${4:themeAuthor}
+Author URI: ${5:themeAutorUrl}
+Template: genesis
+Template Version: 2.2.2
+Tags: black, orange, white, one-column, two-columns, three-columns, left-sidebar, right-sidebar, responsive-layout, custom-menu, full-width-template, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
+License: GPL-2.0+
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+Text Domain: ${6:themeFolderName}
+*/
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>genesis-css-header</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.css</scope>
+</snippet>
